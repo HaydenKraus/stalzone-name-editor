@@ -4,7 +4,7 @@
 
 ## Готовый EXE (Python не нужен)
 
-В папке `dist` лежит **`StalzoneNameEditor.exe`** — один самостоятельный файл. Python и установка библиотек не требуются.
+Скачай **`StalzoneNameEditor.exe`** из [последнего релиза](https://github.com/HaydenKraus/stalzone-name-editor/releases/latest) — это один самостоятельный файл. Python и установка библиотек не требуются.
 
 1. Скопируй `StalzoneNameEditor.exe` в любую **записываемую** папку (например, на рабочий стол или в `C:\STALZONE-LocEditor`).
 2. Запусти двойным кликом.
